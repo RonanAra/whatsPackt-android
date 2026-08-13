@@ -26,3 +26,4 @@ rootProject.name = "WhatsPackt"
 include(":app")
 include(":common:data")
 include(":common:domain")
+include(":common:framework")
