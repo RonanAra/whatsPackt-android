@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "WhatsPackt"
 include(":app")
+include(":common:data")
